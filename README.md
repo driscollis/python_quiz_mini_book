@@ -1,6 +1,6 @@
-# python_quiz_mini_book
+# The Python Quiz Mini Book
 
-The Python Quiz Mini Book is my introductory book of Python quizzes by Michael Driscoll
+The Python Quiz Mini Book is my introductory book of Python quizzes by Michael Driscoll. This book continas TEN quizzes and answers free!
 
 This repository contains the quiz code for the book.
 
